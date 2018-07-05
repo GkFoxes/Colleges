@@ -1,0 +1,14 @@
+config:
+[menu]
+menuitem = keyrus, with keyboard
+menuitem = nokeyrus, without keyboard
+[keyrus]
+device = \drivers\himem.sys
+dos = high
+device = \drivers\oakcdrom.sys
+device = \drivers\EMM386.EXE
+[nokeyrus]
+device = \drivers\himem.sys
+dos = high
+device = \drivers\oakcdrom.sys
+device = \drivers\EMM386.EXE

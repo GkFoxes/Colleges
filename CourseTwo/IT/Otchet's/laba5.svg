@@ -1,0 +1,19 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <image  xlink:href="https://2c9kciiz8kdr12vc38trohj8-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/Mozaico-Classic_Raphael.jpg" height="100%" width="100%"/>
+  <g transform="rotate(-45 200 190)">
+    <ellipse fill="white" stroke-width="1.5" cx="214.741993" cy="98.419369" rx="22" ry="22" stroke="black"/>
+    <rect fill="white" stroke-width="1.5" y="66" x="173" height="118" width="46" stroke="black"/>
+    <rect fill="white" stroke-width="1.5" y="184" x="173" height="124" width="46" stroke="black"/>
+    <polygon points="190,154 190,270 70,270" fill="white" stroke-width="1.5" stroke="black"/>
+    <polygon points="196,14 218,65 173,65" fill="white" stroke-width="1.5" stroke="black"/>
+    <polygon points="218,174 218,270 314,270" fill="white" stroke-width="1.5" stroke="black"/>
+    <polygon points="218,255 218,310 272,310" fill="white" stroke-width="1.5" stroke="black"/>
+    <polygon points="247,285 210,318 247,318" fill="white" stroke-width="1.5" stroke="black"/>
+  </g>
+  <polygon transform="translate(10, 100) scale(0.5, 0.5)" points="50,5 20,99 95,39 5,39 80,99" fill="white" stroke="black" stroke-width="1.5"/>
+  <polygon transform="translate(10, 250) scale(0.5, 0.5)" points="50,5 20,99 95,39 5,39 80,99" fill="white" stroke="black" stroke-width="1.5"/>
+  <polygon transform="translate(50, 180) scale(0.5, 0.5)" points="50,5 20,99 95,39 5,39 80,99" fill="white" stroke="black" stroke-width="1.5"/>
+  <polygon transform="translate(200, 20) scale(0.5, 0.5)" points="50,5 20,99 95,39 5,39 80,99" fill="white" stroke="black" stroke-width="1.5"/>
+  <polygon transform="translate(260, 80) scale(0.5, 0.5)" points="50,5 20,99 95,39 5,39 80,99" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="210" y="370" font-size="18" font-weight="bold">Матвеенко Д.В. Y2235</text>
+</svg>

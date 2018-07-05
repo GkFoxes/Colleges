@@ -1,0 +1,3 @@
+/Users/dmitriq/Desktop/Учеба/ОП и ТА/Лаба 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dmitriq/Desktop/Учеба/ОП и ТА/Лаба 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitriq/Desktop/Учеба/ОП и ТА/Лаба 6/cmake-build-debug/CMakeFiles/untitled.dir

@@ -1,0 +1,188 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.main-header {
+  padding-top: 65px;
+  padding-bottom: 155px;
+}
+
+.header-top {
+  margin-bottom: 120px;
+}
+
+.header-top::after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.logo {
+  float: left;
+  width: 180px;
+}
+
+.main-menu {
+  float: right;
+  width: 680px;
+  margin-top: 25px;
+}
+
+.promo {
+  width: 450px;
+}
+
+.features {
+  padding-top: 85px;
+  padding-bottom: 75px;
+}
+
+.features .container::after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.features-item {
+  float: left;
+  width: 300px;
+  margin-right: 40px;
+}
+
+.features-item:last-child {
+  margin-right: 0;
+}
+
+.feedback {
+  padding-top: 85px;
+  padding-bottom: 80px;
+}
+
+.feedback-title,
+.contacts-title {
+  margin: 0;
+  margin-bottom: 65px;
+}
+
+.feedback-item::after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.feedback-author {
+  float: left;
+  padding-left: 170px;
+  width: 130px;
+}
+
+.feedback-content {
+  float: right;
+  width: 640px;
+  margin: 0;
+}
+
+.contacts {
+  padding-top: 85px;
+  padding-bottom: 80px;
+}
+
+.contacts .container {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.contacts-form {
+  float: left;
+  width: 640px;
+}
+
+.contacts-instruction {
+  float: right;
+  width: 300px;
+}
+
+.main-footer {
+  padding-top: 95px;
+  padding-bottom: 75px;
+}
+
+.footer-top::after,
+.footer-bottom::after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-address {
+  float: left;
+  width: 300px;
+  margin-right: 40px;
+}
+
+.footer-menu {
+  float: left;
+  width: 150px;
+  margin-top: 25px;
+}
+
+.footer-menu:last-child {
+  float: right;
+  width: 135px;
+}
+
+.footer-bottom {
+  margin-top: 45px;
+}
+
+.copyright {
+  float: left;
+  width: 300px;
+  margin-right: 40px;
+}
+
+.footer-social-promo {
+  float: left;
+  width: 420px;
+}
+
+.footer-social {
+  float: right;
+  width: 170px;
+}
+
+/*======================================
+ Системное оформление - не изменять
+=======================================*/
+
+.gl0, .gl1, .gl2, .gl3 {
+  position: relative;
+}
+
+.gl0 {
+  box-shadow: inset 0 0 0 2px blue;
+  background: rgba(0, 0, 255, .1);
+}
+
+.gl1 {
+  box-shadow: 0 0 0 2px green;
+  background: rgba(0, 128, 0, .1);
+}
+
+.gl2 {
+  box-shadow: 0 0 0 2px rgb(255, 45, 82);
+  background: rgba(255, 45, 82, .1);
+}
+
+.gl3 {
+  box-shadow: 0 0 0 2px rgb(234, 255, 45);
+  background: rgba(234, 255, 45, .1);
+}

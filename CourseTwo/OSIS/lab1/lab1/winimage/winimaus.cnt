@@ -1,0 +1,25 @@
+:Base winimaus.hlp
+:Title Help of WinImage
+:Index WinImage Index =winimaus.hlp
+1 Index=HELPID_INDEX
+1 What is a disk image file? = HELPID_DEFIMA
+1 WinImage Standard, Professional and Developer Edition = HELPID_DEFWIMAMODE
+1 WinImage self-extractor = HELPID_DEFSFX
+1 WinImage SDK = HELPID_DEFSDK
+1 Introducing SmartVersion = HELPID_DEFSMARTVERSION
+1 Using WinImage = HELPID_DEFPCPFNT
+1 About DMF = HELPID_DEFDMF
+1 Hard disk image = HELPID_DEFDISK
+1 Defining custom format and resizing image = HELPID_EDITBPB
+1 CD-Rom Iso image = HELPID_DEFCDROM
+1 Mounting image to emulate physical disk or CD-ROM = HELPID_MOUNTIMAGE
+1 Encoding files with a password = HELPID_DEFCRYPT
+1 File Menu = HELPID_DEFFILE
+1 Image Menu = HELPID_DEFMIMA
+1 Diskette Menu = HELPID_DEFDSK
+1 Option Menu = HELPID_DEFOPT
+1 Batch assistant = HELPID_BATCH
+1 WinImage's past and future = HELPID_DEFEVOL
+1 Acknowledgements = HELPID_DEFREM
+1 Where to find WinImage = HELPID_DEFWHERE
+1 Registering = HELPID_DEFREG

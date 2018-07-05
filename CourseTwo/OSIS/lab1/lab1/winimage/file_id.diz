@@ -1,0 +1,16 @@
+WINIMAGE-7.00<ASP>THE WINDOWS DMF DISK IMAGER
+WinImage does all disk image operations under
+Windows (WinNT/2000/XP/2003,Win9x/Me).
+WinImage support image of USB drive and key, 
+Iso image of CD-ROM and DVD-Rom.
+Hard disk imaging,EXE image self-extractor,
+Creates disk images from floppies, extract files from
+images, make an empty image, inject files into it
+and put the image on blank disk. Write DMF.
+It opens CDROM ISO image file in read only,
+compresses image files (ZIP compatible),
+comments in image, drag files to explorer.
+English version (foreign extention exists also)
+New : Create self-extractor file in WinImage,
+File properties/rename, ISO CD Image creation for
+Win9x....

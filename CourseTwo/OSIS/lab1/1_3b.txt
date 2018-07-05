@@ -1,0 +1,8 @@
+autoexe:
+goto %config%
+:keyrus
+\drivers\KEYRUS.COM
+goto end
+:nokeyrus
+goto end
+:end
