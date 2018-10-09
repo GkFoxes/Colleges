@@ -18,3 +18,4 @@ If anything, please contact!
 * Operating systems and environments (OSIS) - Practical work and evaluation reports 5.
 
 # Course three:
+* Computer network (KS) - reports with works on Cisco Packet Tracer
