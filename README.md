@@ -1,5 +1,5 @@
 # ITMO
-All the practical work that is associated with programming in the FSPO ITMO
+All the practical work that is associated with programming and IT in the FSPO ITMO
 
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
 
@@ -19,3 +19,4 @@ If anything, please contact!
 
 # Course three:
 * Computer network (KS) - reports with works on Cisco Packet Tracer
+* Database (BD) - DFD diagrams, reports with works on Process Modeler
