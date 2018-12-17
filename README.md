@@ -7,6 +7,8 @@ Here everything is collected that is related to the code and IT sphere.
 I hope that this repository will help FSPO ITMO students with the delivery of practices and their protection. 
 If anything, please contact!
 
+*(OSIS) - Translit in Russian
+
 # Course one:
 * Simple website from the course
 (https://courses.openedu.ru/courses/course-v1:ITMOUniversity+WEBDEV+spring_2017/info)
