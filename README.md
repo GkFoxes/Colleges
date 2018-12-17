@@ -23,3 +23,4 @@ If anything, please contact!
 * Computer network (KS) - reports with works on Cisco Packet Tracer.
 * Database (BD) - DFD diagrams, reports with works on Process Modeler.
 * Software engineering technology (TRPO) - reports with works for project Pravda.
+* Technical means of information (TSI) - reports with C++ works for Windows API.
