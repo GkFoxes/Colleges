@@ -1,4 +1,4 @@
-# ITMO
+# FSPO ITMO
 All the practical work that is associated with programming and IT in the FSPO ITMO
 
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
@@ -24,3 +24,4 @@ If anything, please contact!
 * Database (BD) - DFD diagrams, reports with works on Process Modeler.
 * Software engineering technology (TRPO) - reports with works for project Pravda.
 * Technical means of information (TSI) - reports with C++ works for Windows API.
+* Computer Systems Architecture (AKS) - reports with NASM Assembler works for DosBox.
