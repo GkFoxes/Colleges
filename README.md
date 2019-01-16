@@ -7,6 +7,7 @@ If anything, please contact!
 
 *(OSIS) - Translit in Russian
 ## Polytech
+![polytech_logo](https://user-images.githubusercontent.com/26763098/51233719-a9166600-197b-11e9-81fa-acf81bd5fac8.jpg)
 
 ### Course two:
 * –_(•-•)_–
