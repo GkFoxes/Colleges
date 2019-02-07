@@ -30,6 +30,12 @@ body {
   background-image: url("../img/bg-header-inner.jpg");
 }
 
+.main-header-inner-two {
+  padding-bottom: 75px;
+  margin-bottom: 0px;
+  background-image: url("../img/bg-header-inner.jpg");
+}
+
 .header-top {
   margin-bottom: 120px;
 }
@@ -252,6 +258,15 @@ body {
   width: 100px;
   height: 108px;
   background-image: url("../img/sprite.png");
+}
+
+.features-icon-two {
+    position: absolute;
+    top: -118px;
+    left: 0;
+    width: 98px;
+    height: 104px;
+    background-image: url("../img/sprite2.png");
 }
 
 .features-icon-schedule {
