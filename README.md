@@ -10,7 +10,8 @@ If anything, please contact!
 ![polytech_logo](https://user-images.githubusercontent.com/26763098/51233719-a9166600-197b-11e9-81fa-acf81bd5fac8.jpg)
 
 ### Course one:
-* Educational practice (UP04.01) - Report for new A+ website.
+* Educational practice (UP-04.01) - Report for new A+ website.
+* Interdisciplinary course (MDK-04.01) - Report and presentation for Photoshop, CorelDraw.
 
 ### Course two:
 * Nothing now!
