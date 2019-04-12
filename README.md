@@ -14,7 +14,7 @@ If anything, please contact!
 * Interdisciplinary course (MDK-04.01) - Report and presentation for Photoshop, CorelDraw.
 
 ### Course two:
-* Nothing now!
+* System Programming (SP) - Report for C++ programs.
 
 ## FSPO ITMO
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
