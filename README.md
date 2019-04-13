@@ -10,11 +10,12 @@ If anything, please contact!
 ![polytech_logo](https://user-images.githubusercontent.com/26763098/51233719-a9166600-197b-11e9-81fa-acf81bd5fac8.jpg)
 
 ### Course one:
-* Educational practice (UP-04.01) - Report for new A+ website.
-* Interdisciplinary course (MDK-04.01) - Report and presentation for Photoshop, CorelDraw.
+* Educational practice (UP-04.01) - report for new A+ website.
+* Interdisciplinary course (MDK-04.01) - reports and presentation for Photoshop, CorelDraw.
 
 ### Course two:
-* System Programming (SP) - Report for C++ programs.
+* System Programming (SP) - reports for C++ programs.
+* Computer Systems Architecture (AKS) - reports with computer theory.
 
 ## FSPO ITMO
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
