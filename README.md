@@ -1,8 +1,8 @@
-# Polytech and FSPO ITMO
+# Colleges
 All the practical work that is associated with programming and IT in the colleges.
 
 Here everything is collected that is related to the code and IT sphere. 
-I hope that this repository will help Polytech and FSPO ITMO students with the delivery of practices and their protection. 
+I hope that this repository will help students, like Polytech and FSPO ITMO, with the delivery of practices and their protection. 
 If anything, please contact!
 
 *(OSIS) - Translit in Russian
