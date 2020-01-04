@@ -30,6 +30,7 @@ If anything, please contact!
 * Computer modelling (KM) - All works for 3 and 4 semester for a score of five. Completed in LABView and the latest work in Microsoft Visio.
 * Basics of programming (OP) - All works for the 2nd course + additional works for the evaluation 5. Simple programs in the language C and C++.
 * Operating systems and environments (OSIS) - Practical work and evaluation reports 5.
+* Flash - Simple cartoon based on the fairy tale "how to become big"
 
 ### Course three:
 * Computer network (KS) - reports with works on Cisco Packet Tracer.
