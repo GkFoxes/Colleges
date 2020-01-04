@@ -18,6 +18,10 @@ If anything, please contact!
 * Computer Systems Architecture (AKS) - reports with computer theory.
 * Basics of database design (OPBD) - DKR report with MySQL database.
 * Course work (PM01) - C# App WeatherInfo and reports
+
+### Course three:
+* Information security (IB) - reports with works about data protection.
+* Database (TRZBD) - diagrams, reports with works on SQL.
 ## FSPO ITMO
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
 
