@@ -22,6 +22,7 @@ If anything, please contact!
 ### Course three:
 * Information security (IB) - reports with works about data protection.
 * Database (TRZBD) - diagrams, reports with works on SQL.
+* Technical means of information (TSI) - reports with practical work.
 ## FSPO ITMO
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
 
