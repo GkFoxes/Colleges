@@ -28,7 +28,8 @@ If anything, please contact!
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
 
 ### Course one:
-* Simple website from the course
+* Simple website from the course:
+
 (https://courses.openedu.ru/courses/course-v1:ITMOUniversity+WEBDEV+spring_2017/info)
 
 ### Course two:
