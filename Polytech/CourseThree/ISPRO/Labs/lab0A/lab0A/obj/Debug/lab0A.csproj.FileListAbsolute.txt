@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab0A\lab0A\bin\Debug\lab0A.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab0A\lab0A\bin\Debug\lab0A.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab0A\lab0A\bin\Debug\lab0A.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab0A\lab0A\obj\Debug\lab0A.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab0A\lab0A\obj\Debug\lab0A.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab0A\lab0A\obj\Debug\lab0A.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab0A\lab0A\obj\Debug\lab0A.pdb

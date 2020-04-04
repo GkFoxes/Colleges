@@ -1,0 +1,69 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lab0B
+{
+    class CupOfTea: HotDrink, ICup
+    {
+        protected string leafType = "Зеленый";
+        public string LeafType
+        {
+            get {
+                return leafType;
+            }
+
+            set
+            {
+                if (value is string)
+                    if (value.Equals("Черный"))
+                        leafType = value;
+            }
+        }
+        protected string type = "Пластик";
+        public string Type
+        {
+            get {
+                return type;
+            }
+
+            set
+            {
+                if (value is string)
+                    if (value == "Стекло")
+                        type = value;
+            }
+        }
+        protected double capacity = 0.2;
+        public double Capacity
+        {
+            get {
+                return capacity;
+            }
+
+            set
+            {
+                if (value <= 0.2) capacity = 0.2;
+                if (value > 0.2) capacity = 0.3;
+            }
+        }
+
+        public void Refill()
+        {
+            Console.WriteLine(
+                "Повторить чай {4} объемом {0}\n" +
+                "Молоко: {1}\n" +
+                "Сахар: {2}\n" +
+                "Тип стакана: {3}\n", 
+                Capacity, Milk, Sugar, Type, leafType
+                );
+        }
+
+        public void Wash()
+        {
+            Console.WriteLine("Вымыть {0} чашку с чаем\n", Type);
+        }
+    }
+}
