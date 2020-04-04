@@ -17,13 +17,14 @@ If anything, please contact!
 * System Programming (SP) - reports for C++ programs.
 * Computer Systems Architecture (AKS) - reports with computer theory.
 * Basics of database design (OPBD) - DKR report with MySQL database.
-* Course work (PM01) - C# App WeatherInfo and reports
+* Course work (PM01) - C# App WeatherInfo and reports.
 
 ### Course three:
 * Information security (IB) - reports with works about data protection.
 * Database (TRZBD) - diagrams, reports with works on SQL.
 * Technical means of information (TSI) - reports with practical work.
 * Software engineering technology (TRPO) - reports with works for graduation work.
+* Windows Presentation Foundation (ISRPO) - applications developed by WPF.
 ## FSPO ITMO
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
 
@@ -37,7 +38,7 @@ If anything, please contact!
 * Computer modelling (KM) - All works for 3 and 4 semester for a score of five. Completed in LABView and the latest work in Microsoft Visio.
 * Basics of programming (OP) - All works for the 2nd course + additional works for the evaluation 5. Simple programs in the language C and C++.
 * Operating systems and environments (OSIS) - Practical work and evaluation reports 5.
-* Flash - Simple cartoon based on the fairy tale "how to become big"
+* Flash - Simple cartoon based on the fairy tale "how to become big".
 
 ### Course three:
 * Computer network (KS) - reports with works on Cisco Packet Tracer.
