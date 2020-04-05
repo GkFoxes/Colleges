@@ -1,0 +1,68 @@
+﻿<Page x:Class="lab7A.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:lab7A"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="500"
+      Title="Page2"
+      Background="Yellow">
+    <StackPanel>
+        <TextBlock Padding="18"
+                   Text="Доступные начинки"
+                   HorizontalAlignment="Center"
+                   FontSize="18"/>
+        <ListBox Name="list"
+                 Height="200"
+                 FontSize="16">
+            <ListBoxItem Content="Моцарелла"/>
+            <ListBoxItem Content="Ветчина"/>
+            <ListBoxItem Content="Грибы"/>
+            <ListBoxItem Content="Маринованные огурцы"/>
+            <ListBoxItem Content="Индейка"/>
+            <ListBoxItem Content="Оливки"/>
+            <ListBoxItem Content="Салями"/>
+            <ListBoxItem Content="Помидоры"/>
+        </ListBox>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Name="add"
+                    Margin="30,10,30,10"
+                    Content="Добавить начинку"
+                    HorizontalContentAlignment="Center"
+                    Click="Add_Click"/>
+            <Button Name="sub"
+                    Grid.Column="1"
+                    Margin="30,10,30,10"
+                    Content="Удалить начинку"
+                    HorizontalContentAlignment="Center"
+                    Click="Sub_Click"/>
+        </Grid>
+
+        <StackPanel Orientation="Horizontal">
+
+        </StackPanel>
+        <TextBlock Padding="18"
+                   Text="Выбранные начинки"
+                   HorizontalAlignment="Center"
+                   FontSize="18"/>
+
+        <ListBox Name="listAdd" 
+                 Height="200"
+                 FontSize="16">
+        </ListBox>
+
+        <Button Name="exit"
+                    Grid.Column="1"
+                    Margin="30"
+                    Content="Завершить выбор"
+                    HorizontalContentAlignment="Center"
+                Click="Exit_Click"/>
+        </StackPanel>
+</Page>

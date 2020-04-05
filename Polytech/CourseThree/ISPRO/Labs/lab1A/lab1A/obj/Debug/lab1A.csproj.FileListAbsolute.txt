@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\bin\Debug\lab1A.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\bin\Debug\lab1A.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\bin\Debug\lab1A.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab1A\lab1A\obj\Debug\lab1A.pdb

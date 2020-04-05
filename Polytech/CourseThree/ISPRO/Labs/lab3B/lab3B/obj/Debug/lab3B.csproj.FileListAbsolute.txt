@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\bin\Debug\lab3B.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\bin\Debug\lab3B.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\bin\Debug\lab3B.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab3B\lab3B\obj\Debug\lab3B.pdb

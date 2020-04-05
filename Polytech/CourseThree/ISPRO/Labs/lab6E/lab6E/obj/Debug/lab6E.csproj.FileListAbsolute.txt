@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\bin\Debug\lab6E.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\bin\Debug\lab6E.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\bin\Debug\lab6E.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6E\lab6E\obj\Debug\lab6E.pdb

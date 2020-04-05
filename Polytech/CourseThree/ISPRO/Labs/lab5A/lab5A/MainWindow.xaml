@@ -1,0 +1,26 @@
+﻿<Window x:Class="lab5A.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab5A"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" TextBoxBase.TextChanged="TextBox_TextChanged">
+    <Grid TextBoxBase.TextChanged="TextBox_TextChanged">
+            <StackPanel>
+                <RadioButton Name="TextBox" Margin="20"
+                             FontSize="25" 
+                             IsChecked="True" 
+                             Content="Событие TextBox.TextChanged в TextBox"/>
+                <RadioButton Name="Grid"  Margin="20"
+                             FontSize="25" 
+                             IsChecked="True" 
+                             Content="Событие TextBox.TextChanged в Grid"/>
+                <RadioButton Name="Window" Margin="20"
+                             FontSize="25" 
+                             IsChecked="True" 
+                             Content="Событие TextBox.TextChanged в Window"/>
+                <TextBox Margin="20" TextChanged="TextBox_TextChanged"/>
+            </StackPanel>
+    </Grid>
+</Window>

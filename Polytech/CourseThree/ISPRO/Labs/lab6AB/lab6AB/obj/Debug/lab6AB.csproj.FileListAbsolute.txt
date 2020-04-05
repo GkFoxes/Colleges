@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\bin\Debug\lab6AB.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\bin\Debug\lab6AB.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\bin\Debug\lab6AB.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\bin\Debug\System.IO.Compression.dll
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB.csproj.CopyComplete
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6AB\lab6AB\obj\Debug\lab6AB.pdb

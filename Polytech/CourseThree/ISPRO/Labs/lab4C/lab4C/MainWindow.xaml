@@ -1,0 +1,93 @@
+﻿<Window x:Class="lab4C.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab4C"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style x:Key="tools" TargetType="{x:Type Button}">
+            <Setter Property="Width" Value="70"/>
+            <Setter Property="Margin" Value="7"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="numb" TargetType="{x:Type Button}">
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.3*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ToolBar>
+            <UniformGrid Columns="6">
+                <Button Click="click"
+                        Content="+"
+                        Style="{StaticResource ResourceKey=tools}"/>
+                <Button Click="click"
+                        Content="—"
+                        Style="{StaticResource ResourceKey=tools}"/>
+                <Button Click="click"
+                        Content="*"
+                        Style="{StaticResource ResourceKey=tools}"/>
+                <Button Click="click"
+                        Content="/"
+                        Style="{StaticResource ResourceKey=tools}"/>
+                <Button Click="click"
+                        Content="="
+                        Style="{StaticResource ResourceKey=tools}"/>
+                <Button Click="click"
+                        Content="C"
+                        Style="{StaticResource ResourceKey=tools}"/>
+            </UniformGrid>
+        </ToolBar>
+
+        <TextBlock Grid.Row="1" 
+                   Name="sum" 
+                   FontSize="40"
+                   VerticalAlignment="Bottom"
+                   HorizontalAlignment="Right"/>
+
+        <UniformGrid Grid.Row="2" Columns="3" Rows="4">
+            <Button Click="click"
+                    Content="7"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="8"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="9"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="4"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="5"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="6"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="3"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="2"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="1"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content="0"
+                    Style="{StaticResource ResourceKey=numb}"/>
+            <Button Click="click"
+                    Content=","
+                    Style="{StaticResource ResourceKey=numb}"/>
+        </UniformGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\bin\Debug\lab6D.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\bin\Debug\lab6D.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\bin\Debug\lab6D.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\lab6D_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\lab6D_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\lab6D.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\lab6D.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\lab6D.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\lab6D.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\lab6D.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab6D\lab6D\obj\Debug\lab6D.pdb

@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\bin\Debug\lab2B.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\bin\Debug\lab2B.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\bin\Debug\lab2B.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2B\lab2B\obj\Debug\lab2B.pdb

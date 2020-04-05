@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\bin\Debug\lab5B.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\bin\Debug\lab5B.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\bin\Debug\lab5B.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab5B\lab5B\obj\Debug\lab5B.pdb

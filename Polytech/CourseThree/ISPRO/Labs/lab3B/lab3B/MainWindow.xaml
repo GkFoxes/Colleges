@@ -1,0 +1,52 @@
+﻿<Window x:Class="lab3B.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab3B"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Button Name="Rotate" 
+                    Content="Rotate Transform" 
+                    Width="250"
+                    Click="Rotate_Click"/>
+            <Button Name="Scale"
+                    Content="Scale Transform" 
+                    Width="250" 
+                    Click="Scale_Click"/>
+            <Button Name="Translate" 
+                    Content="Translate Transform" 
+                    Width="250" 
+                    Click="Translate_Click"/>
+        </StackPanel>
+        <StackPanel Name="Stack" 
+                    Grid.Row="1" 
+                    Orientation="Horizontal">
+            <Rectangle Margin="15" 
+                       Fill="Orange" 
+                       Height="110" 
+                       Width="110"></Rectangle>
+            <Image Margin="15" 
+                   Source="image.jpg" 
+                   Height="110" 
+                   Width="110"></Image>
+            <Ellipse Margin="15" 
+                     Fill="Green" 
+                     Height="110" 
+                     Width="110"></Ellipse>
+            <Polygon Margin="15" 
+                     Fill = "Red" 
+                     Points="10, 100, 100, 100, 25, 200"></Polygon>
+            <Line Margin="15" 
+                  Stroke="Black" 
+                  X1="50" X2="150" 
+                  Y1="50" Y2="300"></Line>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,75 @@
+﻿<Window x:Class="lab6AB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab6AB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1000" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.12*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <TextBlock Text="Имя файла"
+                       Margin="10"/>
+            <TextBlock Text="Путь к файлу"
+                       Margin="10, 0, 10, 0"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Orientation="Vertical">
+            <TextBox Name="obj"
+                     Margin="8"
+                     Text=""/>
+            <DockPanel Margin="8,0,8,0">
+                <TextBox Name="way"
+                         Margin="0,0,8,0"
+                         Text=""
+                         Width="674"/>
+                <Button Name="view"
+                        DockPanel.Dock="Right"
+                        Content="Обзор"
+                        Width="50"
+                        Click="View_Click"/>
+            </DockPanel>
+
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <CheckBox Name="findInFolders"
+                      Margin="10"
+                      IsChecked="True"
+                      Content="Искать в папках"/>
+            <Button Name="find"
+                    Margin="20,0,20,0"
+                    Content="Искать"
+                    Click="Find_Click"/>
+            <Button Name="Clean"
+                    Margin="20,20,20,0"
+                    Content="Очистить все"
+                    Click="Clean_Click"/>
+            <Button Name="toZip"
+                    Margin="20"
+                    Content="Создать архив"
+                    Click="ToZip_Click"
+                    IsEnabled="False"/>
+        </StackPanel>
+
+        <TextBlock Name="textBlock"
+                   Grid.Column="1"
+                   Grid.Row="1"
+                   Margin="10"
+                   />
+
+        <ListView Name="listOfFiles"
+                 Grid.Column="1"
+                 Grid.Row="1"
+                 Margin="10"/>
+    </Grid>
+</Window>

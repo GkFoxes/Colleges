@@ -1,0 +1,23 @@
+﻿<Window x:Class="lab5C.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab5C"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ToolBar>
+            <Button Command="Copy" CommandTarget="{Binding ElementName=textBox}" Content="Copy" Margin="15" FontSize="18"/>
+            <Button Command="Paste" CommandTarget="{Binding ElementName=textBox}" Content="Paste" Margin="15" FontSize="18"/>
+            <Button Command="Cut" CommandTarget="{Binding ElementName=textBox}" Content="Cut" Margin="15" FontSize="18"/>
+        </ToolBar>
+        <TextBox Grid.Row="1" Margin="15" Name="textBox"/>
+    </Grid>
+</Window>

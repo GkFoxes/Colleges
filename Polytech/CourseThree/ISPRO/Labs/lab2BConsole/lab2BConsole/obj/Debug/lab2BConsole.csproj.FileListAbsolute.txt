@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2BConsole\lab2BConsole\bin\Debug\lab2BConsole.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2BConsole\lab2BConsole\bin\Debug\lab2BConsole.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2BConsole\lab2BConsole\bin\Debug\lab2BConsole.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2BConsole\lab2BConsole\obj\Debug\lab2BConsole.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2BConsole\lab2BConsole\obj\Debug\lab2BConsole.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2BConsole\lab2BConsole\obj\Debug\lab2BConsole.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab2BConsole\lab2BConsole\obj\Debug\lab2BConsole.pdb
