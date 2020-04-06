@@ -1,0 +1,66 @@
+﻿<Window x:Class="lab9A.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab9A"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <Window.Resources>
+        <local:Converter x:Key="MyCustomConvertor">
+        </local:Converter>
+    </Window.Resources>
+
+    <StackPanel Orientation="Vertical">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Content="День" />
+            <TextBox Name="tbDay"
+                     Grid.Column="1"/>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Content="Месяц" />
+            <TextBox Name="tbMonth"
+                     Grid.Column="1"/>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Content="Год" />
+            <TextBox Name="tbYear"
+                     Grid.Column="1"/>
+        </Grid>
+
+        <Separator Height="5" 
+                   Margin="0,15,0,15" 
+                   VerticalAlignment="Top"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Content="Время" />
+            <TextBox Name="tbDateTime"
+                     Grid.Column="1">
+                <TextBox.Text>
+                    <MultiBinding Converter="{StaticResource MyCustomConvertor}" UpdateSourceTrigger="PropertyChanged">
+                        <Binding ElementName="tbDay" Path="Text" />
+                        <Binding ElementName="tbMonth" Path="Text" />
+                        <Binding ElementName="tbYear" Path="Text" />
+                    </MultiBinding>
+                </TextBox.Text>
+            </TextBox>
+        </Grid>
+    </StackPanel>
+</Window>

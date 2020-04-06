@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\bin\Debug\lab10B.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\bin\Debug\lab10B.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\bin\Debug\lab10B.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10B\lab10B\obj\Debug\lab10B.pdb

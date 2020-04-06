@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\bin\Debug\lab10A.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\bin\Debug\lab10A.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\bin\Debug\lab10A.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\lab10A_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\lab10A_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\lab10A.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\lab10A.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\lab10A.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\lab10A.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\lab10A.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab10A\lab10A\obj\Debug\lab10A.pdb

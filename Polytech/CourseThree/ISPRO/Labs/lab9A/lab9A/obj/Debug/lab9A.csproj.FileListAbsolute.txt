@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\bin\Debug\lab9A.exe.config
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\bin\Debug\lab9A.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\bin\Debug\lab9A.pdb
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A_MarkupCompile.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A_MarkupCompile.lref
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A.g.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A.Properties.Resources.resources
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A.exe
+\\Mac\Home\Documents\Study\ИСРПО\Labs\lab9A\lab9A\obj\Debug\lab9A.pdb
