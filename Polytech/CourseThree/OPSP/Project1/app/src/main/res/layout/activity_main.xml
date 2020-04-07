@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        android:padding="@dimen/padding"
+        android:text="@string/button1_text"
+        android:textColor="@color/colorBlue"
+        android:textSize="@dimen/text_size"
+        android:textAllCaps="false"
+        android:background="@color/colorRed" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        android:padding="@dimen/padding"
+        android:text="@string/button2_text"
+        android:textColor="@color/colorBlue"
+        android:textSize="@dimen/text_size"
+        android:textAllCaps="false"
+        android:background="@color/colorRed" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        android:padding="@dimen/padding"
+        android:text="@string/button3_text"
+        android:textColor="@color/colorBlue"
+        android:textSize="@dimen/text_size"
+        android:textAllCaps="false"
+        android:background="@color/colorRed" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        android:padding="@dimen/padding"
+        android:text="@string/button4_text"
+        android:textColor="@color/colorBlue"
+        android:textSize="@dimen/text_size"
+        android:textAllCaps="false"
+        android:background="@color/colorRed" />
+
+</LinearLayout>
