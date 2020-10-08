@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="HardcodedText"
+    tools:context=".MainActivity">
+
+    <ListView
+        android:id="@+id/list_view1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/margin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/edit_text"
+        app:layout_constraintEnd_toStartOf="@id/list_view2"
+        android:background="@color/colorGreen" />
+
+    <ListView
+        android:id="@+id/list_view2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/margin"
+        app:layout_constraintStart_toEndOf="@id/list_view1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/edit_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@color/colorGreen" />
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/button_add_to_list1"
+        android:layout_margin="@dimen/margin"
+        android:background="@color/colorBlue"
+        android:text="item"
+        android:paddingStart="4dp"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:id="@+id/button_add_to_list1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/button_back"
+        app:layout_constraintEnd_toStartOf="@id/button_add_to_list2"
+        android:text="Add to list 1"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/button_add_to_list2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        app:layout_constraintStart_toEndOf="@id/button_add_to_list1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/button_back"
+        android:text="Add to list 2"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/button_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_margin="@dimen/margin"
+        android:text="Back"
+        android:textAllCaps="false"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

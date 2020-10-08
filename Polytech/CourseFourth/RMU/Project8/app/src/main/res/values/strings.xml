@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project8</string>
+    <string-array name="items1">
+        <item>item11</item>
+        <item>item12</item>
+        <item>item13</item>
+    </string-array>
+    <string-array name="items2">
+        <item>item21</item>
+        <item>item22</item>
+        <item>item23</item>
+    </string-array>
+</resources>
