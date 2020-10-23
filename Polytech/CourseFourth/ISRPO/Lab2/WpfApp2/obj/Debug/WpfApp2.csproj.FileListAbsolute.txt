@@ -1,0 +1,54 @@
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\bin\Debug\ClassLibrary1.dll
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\bin\Debug\ClassLibrary1.pdb
+C:\Users\z429281-17\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\bin\Debug\WpfApp2.exe.config
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\bin\Debug\WpfApp2.exe
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\bin\Debug\WpfApp2.pdb
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\bin\Debug\ClassLibrary1.dll
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\bin\Debug\ClassLibrary1.pdb
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\MainWindow.g.cs
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\App.g.cs
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\MainWindow.baml
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.g.resources
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.exe
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.pdb
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\MainWindow.g.cs
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\App.g.cs
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.exe
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.pdb
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\bin\Debug\WpfApp2.exe.config
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\bin\Debug\WpfApp2.exe
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\bin\Debug\WpfApp2.pdb
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\bin\Debug\ClassLibrary1.dll
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\bin\Debug\ClassLibrary1.pdb
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\MainWindow.baml
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.g.resources
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+Y:\Downloads\ИСРПО\Lab2\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete

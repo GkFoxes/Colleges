@@ -1,0 +1,63 @@
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\bin\Debug\Database1.mdf
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\bin\Debug\Database1_log.ldf
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\z429281-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+I:\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+I:\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+I:\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+I:\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2017\Lab1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Lab1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Lab1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Lab1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Lab1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Lab1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Documents\Lab1\WpfApp1\bin\Debug\Database1.mdf
+C:\Users\Admin\Documents\Lab1\WpfApp1\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Documents\Lab1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Documents\Lab1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Documents\Lab1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Documents\Lab1\WpfApp1\obj\Debug\WpfApp1.pdb
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\bin\Debug\Database1.mdf
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\bin\Debug\Database1_log.ldf
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\bin\Debug\WpfApp1.exe.config
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\bin\Debug\WpfApp1.exe
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\bin\Debug\WpfApp1.pdb
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\MainWindow.g.cs
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\App.g.cs
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\MainWindow.baml
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1.g.resources
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1.exe
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab1\WpfApp1\obj\Debug\WpfApp1.pdb

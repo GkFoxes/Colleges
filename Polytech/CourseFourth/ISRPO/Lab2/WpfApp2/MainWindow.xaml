@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Button Content="Load" HorizontalAlignment="Left" Padding="5" Margin="10,10,0,0" VerticalAlignment="Top" Click="Load" RenderTransformOrigin="0.513,1.027"/>
+        <Button Content="Save" HorizontalAlignment="Left" Padding="5" Margin="55,10,0,0" VerticalAlignment="Top" Click="Save"/>
+        <DataGrid Name="Data" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" />
+        <Label Name="Label" Grid.Row="1"/>
+
+    </Grid>
+</Window>

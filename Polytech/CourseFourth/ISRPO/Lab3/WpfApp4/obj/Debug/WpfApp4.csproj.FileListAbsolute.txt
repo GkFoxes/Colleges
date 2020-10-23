@@ -1,0 +1,62 @@
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+c:\users\z429281-17\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojResolveAssemblyReference.cache
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+I:\4 курс\ИСРПО\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.Cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\bin\Debug\WpfApp4.exe.config
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\bin\Debug\WpfApp4.exe
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\bin\Debug\WpfApp4.pdb
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\MainWindow.g.cs
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\App.g.cs
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\MainWindow.baml
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.g.resources
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.exe
+Z:\Учебный процесс 2017-2020\4 курс\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.pdb
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\bin\Debug\WpfApp4.exe.config
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\bin\Debug\WpfApp4.exe
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\bin\Debug\WpfApp4.pdb
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\MainWindow.g.cs
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\App.g.cs
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\MainWindow.baml
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.g.resources
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.exe
+Y:\Downloads\ИСРПО\Lab3\WpfApp4\obj\Debug\WpfApp4.pdb

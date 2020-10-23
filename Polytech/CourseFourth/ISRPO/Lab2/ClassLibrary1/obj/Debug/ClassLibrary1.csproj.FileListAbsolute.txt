@@ -1,0 +1,12 @@
+C:\Users\z429281-17\source\repos\WpfApp2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\z429281-17\source\repos\WpfApp2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\z429281-17\source\repos\WpfApp2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\z429281-17\source\repos\WpfApp2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\z429281-17\source\repos\WpfApp2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\z429281-17\source\repos\WpfApp2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+Y:\Downloads\ИСРПО\Lab2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+Y:\Downloads\ИСРПО\Lab2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+Y:\Downloads\ИСРПО\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+Y:\Downloads\ИСРПО\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+Y:\Downloads\ИСРПО\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+Y:\Downloads\ИСРПО\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

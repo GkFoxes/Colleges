@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="213.025" Width="342.437">
+    <Window.Resources>
+        <local:Converter x:Key="MyCustomConvertor"></local:Converter>
+    </Window.Resources>
+
+    <Grid Margin="0,0,2,3">
+        <Label Content="День" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Месяц" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top"/>
+        <Label Content="Год" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top"/>
+        <Label Content="DateTime: " HorizontalAlignment="Left" Margin="10,109,0,0" VerticalAlignment="Top"/>
+        <Separator Height="5" Margin="0,99,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbDay" HorizontalAlignment="Left" Height="23" Margin="86,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193"/>
+        <TextBox x:Name="tbMonth" HorizontalAlignment="Left" Height="23" Margin="86,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193"/>
+        <TextBox x:Name="tbYear" HorizontalAlignment="Left" Height="23" Margin="86,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193"/>
+        <TextBox x:Name="tbDateTime" Background="White" HorizontalAlignment="Left" Height="23" Margin="86,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193">
+            <TextBox.Text>
+                <MultiBinding Converter="{StaticResource MyCustomConvertor}" UpdateSourceTrigger="PropertyChanged">
+                    <Binding ElementName="tbDay" Path="Text" />
+                    <Binding ElementName="tbMonth" Path="Text" />
+                    <Binding ElementName="tbYear" Path="Text" />
+                </MultiBinding>
+            </TextBox.Text>
+        </TextBox>
+    </Grid>
+
+</Window>

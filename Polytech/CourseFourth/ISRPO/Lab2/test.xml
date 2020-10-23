@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+	<to>Дима</to>
+	<from>Матвеенко</from>
+	<heading>Заголовок</heading>
+	<body>Очень длинное тело текста, или не особо длинное</body>
+</test>
