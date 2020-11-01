@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZDG8R47fx0m678L/LbYTWwAAAAACAAAAAAAQZgAAAAEAACAAAADfWdHRE4yizXCzaYUcAZIdGF/1lMZPcFsjf17ToUCQeQAAAAAOgAAAAAIAACAAAADZYmQmtlvw80yc2bxGthuJprkduZ29hbYmDmguVOlLNTAAAADqzJRljscNK0EmIA+ni1gGcuf08dqLUiSZ7+4wKPh2zvIzi1AcAN+1rHUGvE1wmQNAAAAAoFl76qxa5SLrcXUIOWf6z38+gECYvZjKp5crawABL6RIcHtwqssJ/CPHxLSHBN1YdF3OV4rR232Rlyhsc1qf9g==</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="dbConnectingString">
+      <Value>Data Source=.\app.db%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

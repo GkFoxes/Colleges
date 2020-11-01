@@ -1,0 +1,130 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+.field-validation-error {
+    color:red;
+}
+.mycenter {
+    margin-left: auto!important;
+    margin-right: auto!important;
+    padding:10px;
+}
+.fill{
+    width:100%!important;
+    height:100%!important;
+    min-height: 100px!important;
+}
+.center {
+    display: flex;
+}
+.center p{
+    margin: auto;
+    color: white;
+    font-size: 35px;
+}
+.column-center {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 10px
+}
+label{
+    font-weight:bold;
+}
+
+.dt-button {
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.6666667;
+    color: #333;
+    background-color: #fcfcfc;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    /*margin: 10px 20px 5px 0px;*/
+}
+.dataTables_filter {
+    margin: 10px 10px 0px 20px;
+}
+.myChart {
+    width:400px!important;
+    height:400px!important;
+}
+.dataTables_length
+{
+    float:right;
+}

@@ -1,0 +1,54 @@
+﻿@model Organization
+@{
+    ViewData["Title"] = "Организация";
+}
+
+<br />
+<h2 class="text-muted text-center" style="margin-top:0;">Список услуг организации [@Model.Info.Name]</h2>
+<br />
+<br />
+<table class="table table-bordered table-filter-style" id="users-table" style="text-align:center">
+    <thead>
+        <tr>
+            <th>Название</th>
+            <th>Цена</th>
+            <th>Действие</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td align="center">
+
+                    <div class="dropdown">
+                        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+                            <button class="dropdown-item"
+                                    data-url="@Url.Action("_EditProductPartial", new {organizationId = Model.Id, productId = product.Id })"
+                                    data-toggle="modal"
+                                    title="Изменить выбранную запись">
+                                ✏️ Редактировать
+                            </button>
+
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" asp-action="RemoveProduct" asp-controller="User" 
+                               asp-route-productId="@product.Id" asp-route-organizationId="@Model.Id" title="Удалить выбранную запись">❌ Удалить</a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<button class="btn btn-success addProduct"
+        data-url="@Url.Action("_EditProductPartial", new {organizationId = Model.Id, productId = 0 })"
+        data-toggle="modal"
+        title="Добавить услугу для организации [@Model.Info.Name]">
+    + Добавить
+</button>
+<div id="modal-placeholder"></div>

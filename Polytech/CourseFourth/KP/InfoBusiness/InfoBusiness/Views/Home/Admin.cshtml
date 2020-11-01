@@ -1,0 +1,26 @@
+﻿@model AdminViewModel
+@{
+    ViewData["Title"] = "Admin";
+}
+
+<br />
+<h2 class="text-muted text-center" style="margin-top:0;">Пользователи</h2>
+<br />
+<br />
+<table class="table table-bordered table-filter-style" id="users-table" style="text-align:center">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Роль</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var userModel in Model.UserWithRole)
+        {
+        <tr>
+            <td>@userModel.User.UserName</td>
+            <td>@userModel.Role</td>
+        </tr>
+        }
+    </tbody>
+</table>

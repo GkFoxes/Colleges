@@ -1,0 +1,42 @@
+﻿@model RegisterViewModel
+@{
+    Layout = "_NotAuthLayout";
+    ViewBag.Title = "Вход";
+}
+<h2 class="text-muted text-center" style="margin-top:0;">Регистрация нового пользователя</h2>
+<br />
+
+<div style="width: 300px; margin: auto;">
+    <form method="post" asp-controller="Account" asp-action="Register">
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="form-group">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" placeholder="name@example.com" />
+            <span asp-validation-for="Email"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password"></label>
+            <input type="password" asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PasswordConfirm"></label>
+            <input type="password" asp-for="PasswordConfirm" class="form-control" />
+            <span asp-validation-for="PasswordConfirm"></span>
+        </div>
+        <div>
+            <button type="submit" class="btn btn-block bg-info border-success-600"> <a style="color:white">Регистрация</a></button>
+        </div>
+        <div>
+            <span>Пароль должен быть следующего вида:</span>
+            <ul>
+                <li>Длина не менее 6 символов</li>
+                <li>Хотя бы один символ в нижнем и верхнем регистре</li>
+                <li>Небуквенный символ (!,$ и пр.)</li>
+            </ul>
+        </div>
+        <div>
+            <span asp-validation-for="@Model.Validation"></span>
+        </div>
+    </form>
+</div>

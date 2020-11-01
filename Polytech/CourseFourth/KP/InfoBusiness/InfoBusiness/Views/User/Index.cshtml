@@ -1,0 +1,51 @@
+﻿@model List<Organization>
+@{
+    ViewData["Title"] = "User";
+}
+
+<br />
+<h2 class="text-muted text-center" style="margin-top:0;">Список организаций</h2>
+<br />
+<br />
+<table class="table table-bordered" id="users-table" style="text-align:center">
+    <thead>
+        <tr>
+            <th>Название</th>
+            <th>Номер телефона</th>
+            <th>Адрес</th>
+            <th>Кол-во предоставляемых услуг</th>
+            <th>Действие</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var organization in Model)
+        {
+        <tr>
+            <td>@organization.Info.Name</td>
+            <td>@organization.Info.PhoneNumber</td>
+            <td>@organization.Info.FullAdress</td>
+            <td>@organization.Products.Count()</td>
+            <td align="center">
+                <div class="dropdown">
+                    <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+                        <button class="dropdown-item" 
+                           data-url="@Url.Action("_EditOrganizationInfoPartial",new {id = organization.Id  })" 
+                           data-toggle="modal" 
+                           title="Изменить выбранную запись" asp-route-id="@organization.Id" >
+                            ✏️ Информация об организации
+                        </button>
+
+                        <div class="dropdown-divider"></div>
+
+                        <a class="dropdown-item"  asp-action="EditOrganizationView" asp-route-id="@organization.Id" asp-controller="User" title="Изменить выбранную запись">✏️ Предоставляемые услуги</a>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<div id="modal-placeholder"></div>
