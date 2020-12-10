@@ -30,6 +30,7 @@ If anything, please contact!
 ### Course fourth:
 * Software development for mobile (RMU) - Android applications developed by Kotlin.
 * Visuial Studio (ISRPO) - WPF C# and ASP.NET C# applications.
+* Documentation and certification (DIS) - Rules of work, registration of documents according to standards.
 * Course project (KP) - ASP.NET C# project with Database.
 
 ## FSPO ITMO
