@@ -32,6 +32,7 @@ If anything, please contact!
 * Visuial Studio (ISRPO) - WPF C# and ASP.NET C# applications.
 * Documentation and certification (DIS) - Rules of work, registration of documents according to standards.
 * Course project (KP) - ASP.NET C# project with Database.
+* Final project (DIPLOM) - iOS application, news aggregator link Apple News
 
 ## FSPO ITMO
 ![itmo_horiz_white_eng](https://user-images.githubusercontent.com/26763098/42324898-400c776e-806d-11e8-8d15-793bdcd81251.jpg)
