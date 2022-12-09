@@ -6,6 +6,12 @@ I hope that this repository will help students, like Polytech and FSPO ITMO, wit
 If anything, please contact!
 
 *(OSIS) - Translit in Russian
+## Synergy
+![synergy_logo](https://user-images.githubusercontent.com/26763098/206665334-76528d55-3cca-4b1c-9012-d6ef37841f96.png)
+
+### Course two:
+* Technological practice (TP) - report from work about documentation
+
 ## Polytech
 ![polytech_logo](https://user-images.githubusercontent.com/26763098/51233719-a9166600-197b-11e9-81fa-acf81bd5fac8.jpg)
 
