@@ -14,7 +14,7 @@ If anything, please contact!
 
 ### Course fourth:
 * Operational practice (PP) - reports from work about company structure on C++
-* Final project (DIPLOM) - iOS application, news aggregator for Tander couriers
+* Final project (DIPLOM) - iOS application, news alert system for Tander couriers
 
 ## Polytech
 ![polytech_logo](https://user-images.githubusercontent.com/26763098/51233719-a9166600-197b-11e9-81fa-acf81bd5fac8.jpg)
