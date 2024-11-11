@@ -6,11 +6,11 @@ If anything, please contact!
 ## Synergy
 ![synergy_logo](https://user-images.githubusercontent.com/26763098/206665334-76528d55-3cca-4b1c-9012-d6ef37841f96.png)
 
-### Master's
+### <ins>Master's</ins>
 ### Course one:
 * Research practice in Tander (RPKS) - report from work about process automation
 
-### Bachelor
+### <ins>Bachelor</ins>
 ### Course two:
 * Technological practice in Instamart (TP) - report from work about service architecture
 
