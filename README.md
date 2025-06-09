@@ -6,9 +6,11 @@ If anything, please contact!
 ## Synergy
 ![synergy_logo](https://user-images.githubusercontent.com/26763098/206665334-76528d55-3cca-4b1c-9012-d6ef37841f96.png)
 
-### <ins>Master's</ins>
 ### Course one:
 * Research practice in Tander (RPKS) - report from work about process automation
+
+### Course two:
+* University practice in Synergy with Tander (UPKS) - report from work about ServiceDesk and MSF
 
 ### <ins>Bachelor</ins>
 ### Course two:
