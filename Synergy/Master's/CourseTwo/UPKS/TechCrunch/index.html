@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Touch icons: достаточно одной 180×180, но можно добавить и другие -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+          <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+            <!-- Дополнительно (не обязательно, но полезно): -->
+            <link rel="icon" type="image/png" href="/apple-touch-icon.png">
+              <meta name="theme-color" content="#0f9d58">
+
+                <title>TechCrunch</title>
+                <script>
+                  // Ждем чуть-чуть, чтобы iOS успела скачать иконку для закладки,
+                  // и затем заменяем адрес, чтобы страница-редирект не оставалась в истории.
+                  window.addEventListener('load', () => {
+                    setTimeout(() => {
+                      location.replace('https://techcrunch.com/');
+                    }, 200); // 150–300 мс обычно достаточно
+                  });
+                </script>
+  </head>
+  <body></body>
+</html>
