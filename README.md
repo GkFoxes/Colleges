@@ -12,7 +12,7 @@ If anything, please contact!
 ### Course two:
 * University practice in Synergy with Tander (UPKS) - report from work about ServiceDesk and MSF
 
-* ### Course three:
+### Course three:
 * Research practice at Tander (VKR) — report on information systems development and implementation
 
 ### <ins>Bachelor</ins>
