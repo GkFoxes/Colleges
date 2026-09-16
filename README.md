@@ -6,6 +6,8 @@ If anything, please contact!
 ## Synergy
 ![synergy_logo](https://user-images.githubusercontent.com/26763098/206665334-76528d55-3cca-4b1c-9012-d6ef37841f96.png)
 
+## Master's Degree
+
 ### Course one:
 * Research practice in Tander (RPKS) - report from work about process automation
 
@@ -14,8 +16,10 @@ If anything, please contact!
 
 ### Course three:
 * Research practice at Tander (VKR) — report on information systems development and implementation
+* Research work in Tander (NPIF) - report on business process modeling and courier mobile information system development
 
-### <ins>Bachelor</ins>
+## Bachelor's Degree
+
 ### Course two:
 * Technological practice in Instamart (TP) - report from work about service architecture
 
