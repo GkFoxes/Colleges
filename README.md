@@ -17,6 +17,7 @@ If anything, please contact!
 ### Course three:
 * Research practice at Tander (VKR) — report on information systems development and implementation
 * Research work in Tander (NPIF) - report on business process modeling and courier mobile information system development
+* Final project (DIPLOM) - information system for Tander courier management and communication
 
 ## Bachelor's Degree
 
